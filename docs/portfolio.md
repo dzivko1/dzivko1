@@ -5,9 +5,12 @@
 - [Laundry simulator (Kotlin, Compose Desktop)](#laundry-simulator)
 - [UniStat (Kotlin, JavaFX)](#unistat)
 - [My Finance (Android, Java)](#my-finance)
+- [Yahtzee](#yahtzee)
 - [Cryptocurrency Client (Kotlin, Compose Desktop)](#cryptocurrency-client)
 
 ## Recap
+
+[View project](https://github.com/dzivko1/recap)
 
 A small journal app for taking daily notes to remember the dates of events (work in progress, but a nice demonstration of app architecture and integration with Cloud Firestore). Built with Jetpack Compose.
 
@@ -17,6 +20,8 @@ A small journal app for taking daily notes to remember the dates of events (work
 <img src="https://github.com/user-attachments/assets/e5e84dc1-ad57-4a0d-9379-eeabb909aa24" width="300" />
 
 ## Foodspo
+
+[View project](https://github.com/dzivko1/foodspo)
 
 A recipe manager app utilising a public REST API for recipe data fetching and Cloud Firestore for custom recipe storage. Built with Jetpack Compose.
 
@@ -28,6 +33,8 @@ A recipe manager app utilising a public REST API for recipe data fetching and Cl
 
 ## Laundry simulator
 
+[View project](https://github.com/dzivko1/laundry-simulator)
+
 A component-level simulation of a laundry washing machine with an object-oriented approach.
 
 ![Appliance-10](https://github.com/user-attachments/assets/f0f73b6d-6622-49a6-8583-356b69fdf461)
@@ -36,6 +43,8 @@ A component-level simulation of a laundry washing machine with an object-oriente
 ![Appliance-11](https://github.com/user-attachments/assets/29eee834-42c1-4b87-aa04-fea8afb2ac34)
 
 ## UniStat
+
+[View project](https://github.com/dzivko1/unistat)
 
 A tool for collecting and analysing receipts from the subsidised university food program. (Kotlin, JavaFX, web data scraping)
 
@@ -47,6 +56,8 @@ A tool for collecting and analysing receipts from the subsidised university food
 
 ## My Finance
 
+[View project](https://github.com/dzivko1/my-finance)
+
 An old Java View-based app for tracking personal finances.
 
 <img src="https://github.com/user-attachments/assets/4d052c92-8bf3-4c58-a870-132144bb35a5" width="300"/>
@@ -56,7 +67,27 @@ An old Java View-based app for tracking personal finances.
 <img src="https://github.com/user-attachments/assets/91730625-1f3c-44c1-ac42-9590a0d0d414" width="300"/>
 <img src="https://github.com/user-attachments/assets/3037d9e1-a8ce-4f43-893e-364ef6e47503" width="300"/>
 
+## Yahtzee
+
+[View project](https://github.com/dzivko1/yahtzee)
+
+A small CLI-based Yahtzee game.
+
+![image](https://github.com/user-attachments/assets/143de369-010b-4ec0-b97e-360d4df30c1c)
+
+![image](https://github.com/user-attachments/assets/86cb7b9c-daba-498a-a958-ea94de70ecb4)
+
+...
+
+![image](https://github.com/user-attachments/assets/8e883cc7-6512-4e87-b58e-f5f159671444)
+
+...
+
+![image](https://github.com/user-attachments/assets/eaa87e6b-621f-4387-a13e-6202dbd412b6)
+
 ## Cryptocurrency client
+
+[View project](https://github.com/dzivko1/cryptocurrency-client)
 
 A study project implementing a small cryptocurrency client for a made up currency.
 
