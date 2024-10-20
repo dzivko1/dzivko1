@@ -5,7 +5,7 @@
 - [Laundry simulator (Kotlin, Compose Desktop)](#laundry-simulator)
 - [UniStat (Kotlin, JavaFX)](#unistat)
 - [My Finance (Android, Java)](#my-finance)
-- [Yahtzee](#yahtzee)
+- [Yahtzee (Kotlin, CLI)](#yahtzee)
 - [Cryptocurrency Client (Kotlin, Compose Desktop)](#cryptocurrency-client)
 
 ## Recap
