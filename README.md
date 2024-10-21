@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,firebase,gradle" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,idea,firebase,ktor,gradle" />
 </p>
 
 [Check out my portfolio](https://github.com/dzivko1/dzivko1/blob/main/docs/portfolio.md)
